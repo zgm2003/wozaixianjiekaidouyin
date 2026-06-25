@@ -14,10 +14,9 @@ Desktop.ini
 # These are large and should stay local unless explicitly publishing source rights.
 /剧本资产/*.txt
 
-# Generated binary media assets.
-# Keep prompts and text packs in Git; store generated images/audio/video elsewhere
-# or use Git LFS if these must be versioned.
-
+# Generated audio assets.
+# Image assets are versioned through Git LFS via .gitattributes.
+/音色资产/
 
 # Render/export outputs
 /exports/
