@@ -1,0 +1,40 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.temp
+*.log
+
+# Cine Make generated working area.
+# Keep curated deliverables under 剧本资产/, not the expanded chapter/task cache.
+/runs/
+
+# Raw / full novel source text.
+# These are large and should stay local unless explicitly publishing source rights.
+/剧本资产/*.txt
+
+# Generated binary media assets.
+# Keep prompts and text packs in Git; store generated images/audio/video elsewhere
+# or use Git LFS if these must be versioned.
+/人设资产/
+/场景资产/
+/道具资产/
+/音色资产/
+
+# Render/export outputs
+/exports/
+/output/
+/dist/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.aac
+*.flac
+*.zip
+*.7z
+*.rar
