@@ -17,10 +17,7 @@ Desktop.ini
 # Generated binary media assets.
 # Keep prompts and text packs in Git; store generated images/audio/video elsewhere
 # or use Git LFS if these must be versioned.
-/人设资产/
-/场景资产/
-/道具资产/
-/音色资产/
+
 
 # Render/export outputs
 /exports/
