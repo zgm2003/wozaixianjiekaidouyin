@@ -16,7 +16,7 @@ Desktop.ini
 
 # Generated audio assets.
 # Image assets are versioned through Git LFS via .gitattributes.
-/音色资产/
+
 
 # Render/export outputs
 /exports/
