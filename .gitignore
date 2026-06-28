@@ -12,7 +12,7 @@ Desktop.ini
 
 # Raw / full novel source text.
 # These are large and should stay local unless explicitly publishing source rights.
-/剧本资产/*.txt
+
 
 # Generated audio assets.
 # Image assets are versioned through Git LFS via .gitattributes.
