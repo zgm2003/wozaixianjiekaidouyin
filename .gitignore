@@ -22,7 +22,7 @@ Desktop.ini
 /exports/
 /output/
 /dist/
-*.mp4
+
 *.mov
 *.avi
 *.mkv
